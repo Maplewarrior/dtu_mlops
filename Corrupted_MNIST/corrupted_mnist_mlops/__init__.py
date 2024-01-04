@@ -1,0 +1,2 @@
+from Corrupted_MNIST.models.model import MyNeuralNet
+from Corrupted_MNIST.predict_model import predict
